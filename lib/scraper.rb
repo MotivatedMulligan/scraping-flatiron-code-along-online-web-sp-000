@@ -17,9 +17,11 @@ end
   end
 binding.pry
 
+#
+# end
+# Scraper.new.get_page
 
-end
-Scraper.new.get_page
+
 # def get_courses
 # end
 #
